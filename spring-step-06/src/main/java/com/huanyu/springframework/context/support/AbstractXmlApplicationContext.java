@@ -3,7 +3,6 @@ package com.huanyu.springframework.context.support;
 import com.huanyu.springframework.factory.support.DefaultListableBeanFactory;
 import com.huanyu.springframework.factory.xml.XmlBeanDefinitionReader;
 
-import java.util.Arrays;
 
 /**
  * ClassName: AbstractXmlApplicationContext

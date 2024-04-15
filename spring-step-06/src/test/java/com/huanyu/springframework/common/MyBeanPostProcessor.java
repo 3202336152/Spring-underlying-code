@@ -7,7 +7,7 @@ import com.huanyu.springframework.factory.config.BeanPostProcessor;
 /**
  * ClassName: MyBeanPostProcessor
  * Package: com.huanyu.springframework.common
- * Description:
+ * Description: 扩展Bean的实例化信息
  *
  * @Author: 寰宇
  * @Create: 2024/4/14 21:10

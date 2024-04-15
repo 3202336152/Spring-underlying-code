@@ -7,7 +7,7 @@ import com.huanyu.springframework.factory.ConfigurableListableBeanFactory;
  * ClassName: BeanFactoryPostProcessor
  * Package: com.huanyu.springframework.factory.config
  * Description: 在bean实例化之前修改bean的定义
- *
+ * 允许在 Bean 对象注册后但未实例化之前，对 Bean 的定义信息 BeanDefinition 执行修改操作。
  * @Author: 寰宇
  * @Create: 2024/4/14 14:55
  * @Version: 1.0

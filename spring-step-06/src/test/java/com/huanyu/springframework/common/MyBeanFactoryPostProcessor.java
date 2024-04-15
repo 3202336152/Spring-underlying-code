@@ -10,7 +10,7 @@ import com.huanyu.springframework.factory.config.BeanFactoryPostProcessor;
 /**
  * ClassName: MyBeanFactoryPostProcessor
  * Package: com.huanyu.springframework.common
- * Description:
+ * Description: Bean实例化之前，修改bean的定义信息。
  *
  * @Author: 寰宇
  * @Create: 2024/4/14 21:10

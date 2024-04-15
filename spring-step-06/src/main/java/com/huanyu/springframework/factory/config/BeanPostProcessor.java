@@ -5,8 +5,8 @@ import com.huanyu.springframework.BeansException;
 /**
  * ClassName: BeanPostProcessor
  * Package: com.huanyu.springframework.factory.config
- * Description: 在 Bean 的初始化前后，进行自定义处理，可影响所有Bean。
- *
+ * Description: 在 Bean 对象实例化之后修改 Bean 对象，也可以替换 Bean 对象。
+ * 在 Bean 的初始化前后，进行自定义处理，可影响所有Bean。
  * @Author: 寰宇
  * @Create: 2024/4/14 15:12
  * @Version: 1.0
